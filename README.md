@@ -1,7 +1,7 @@
 
 # Nicholas
 
-Sou estudante de Engenharia da computação. E busco conhecimento em desenvolvimento de softwares, focado em Back-end e web.
+Sou estudante de Engenharia de Software. E busco conhecimento em desenvolvimento de softwares, focado em Back-end e web.
 
 ## Conecte-se comigo
 
