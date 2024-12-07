@@ -1,6 +1,4 @@
-<h1 align="center"> Titulo </h1>
-
-# Nicholas
+<h1 align="center"> Nicholas </h1>
 
 Sou estudante de Engenharia de Software. E busco conhecimento em desenvolvimento de softwares, focado em Back-end e web.
 
